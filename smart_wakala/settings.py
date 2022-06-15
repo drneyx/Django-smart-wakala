@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'crispy_forms',
-    'wakala'
+    'wakala',
+    'google_translate',
 ]
 
 MIDDLEWARE = [
