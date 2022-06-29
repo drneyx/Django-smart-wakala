@@ -1,4 +1,5 @@
 # Django-smart-wakala
+
 DJANGO SMART WAKALA WEB APP <br>
 
 This is a web application built with django when enable mobile money agents keeps their daily records 
@@ -12,3 +13,5 @@ This is a web application built with django when enable mobile money agents keep
 -Admin <br>
 
 <strong>INSTALLION</strong>
+
+
