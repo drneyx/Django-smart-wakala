@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'crispy_forms',
     'wakala',
     'google_translate',
+    'backend'
+   
 ]
 
 MIDDLEWARE = [
