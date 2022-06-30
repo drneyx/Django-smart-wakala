@@ -1,0 +1,5 @@
+{% for message in messages %}
+<div class="alert alert-success {{ message.tags }} alert-dismissible" role="alert" timeout = 500 >
+  {{ message }}
+</div>
+{% endfor %}
